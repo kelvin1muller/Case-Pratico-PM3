@@ -11,7 +11,7 @@ Em cada etapa o PDF descreve o mesmo contexto e público alvo. No final do arqui
 
 1. **Etapa 1**  
 Nesta etapa, o foco foi estruturar um plano de validação para as hipóteses levantadas, com foco em entender a aderência ao mercado (Product Market Fit), os   riscos envolvidos e a viabilidade do modelo de negócio.  
-   📄 [PDF completo](.pdfs/Case Slack_parte_1.pdf)
+   📄 [PDF completo]([.pdfs/Case Slack_parte_1.pdf](https://github.com/kelvin1muller/Case-Pratico-PM3/blob/main/pdfs/Case%20Slack_parte_1.pdf))
 2. **Etapa 2**  
 Aqui o objetivo foi analisar o público de comunidades e gerar hipóteses de solução com base nas suas dores, motivações e perfil. O exercício teve como foco a identificação de oportunidades estratégicas para o Slack dentro dessa nova vertical.
    📄 [PDF completo](./etapa2-problema.pdf)
