@@ -26,6 +26,6 @@ O desafio foi simular a priorização e organização da primeira sprint, consid
 
    ---
 
-   ## ✍️ Desenvolvimento das Etapas
+## ✍️ Desenvolvimento das Etapas
 
 ### 🔹 Etapa 1 – Validação e Modelo de Negócio
