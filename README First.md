@@ -14,7 +14,7 @@ Nesta etapa, o foco foi estruturar um plano de validação para as hipóteses le
    📄 [PDF completo](./etapa1-descoberta.pdf)
 
 2. **Etapa 2**  
-Nesta etapa, o objetivo foi analisar o público de comunidades e gerar hipóteses de solução com base nas suas dores, motivações e perfil. O exercício teve como foco a identificação de oportunidades estratégicas para o Slack dentro dessa nova vertical.
+Aqui o objetivo foi analisar o público de comunidades e gerar hipóteses de solução com base nas suas dores, motivações e perfil. O exercício teve como foco a identificação de oportunidades estratégicas para o Slack dentro dessa nova vertical.
    📄 [PDF completo](./etapa2-problema.pdf)
 
 3. **Etapa 3**  
@@ -22,5 +22,5 @@ O foco desta etapa foi traduzir a estratégia em planejamento prático e visual,
    📄 [PDF completo](./etapa3-solucoes.pdf)
  
 4. **Etapa 4**  
-   Criamos hipóteses e protótipos de solução.  
+O desafio foi simular a priorização e organização da primeira sprint, considerando restrições de esforço e capacidade da equipe. O objetivo foi garantir foco no delivery de valor desde o início e alinhar o time com a missão do produto.
    📄 [PDF completo](./etapa3-solucoes.pdf)
