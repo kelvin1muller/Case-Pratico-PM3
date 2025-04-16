@@ -40,4 +40,4 @@ Para facilitar a visualização e organização das soluções desenvolvidas, os
 [![Ver no Figma](https://img.shields.io/badge/Ver%20no-Figma-blue?logo=figma&style=for-the-badge)](https://www.figma.com/design/DFIsGHS4Q4WEZQVdKU3PNh/Case-Pr%C3%A1tico---Etapa-3?m=dev&t=d3y14wUUZmcp2u7c-1)
 
 ### 🔹 Etapa 4 – Priorização e Execução da Primeira Release
-[![Ver no Figma](https://img.shields.io/badge/Ver%20no-Figma-blue?logo=figma&style=for-the-badge)](https://www.figma.com/design/ZnIRuExNOo1U4i8WBCBoSg/Case-Pr%C3%A1tico---Etapa-4?node-id=13-4&m=dev&t=d3y14wUUZmcp2u7c-1).
+[![Ver no Figma](https://img.shields.io/badge/Ver%20no-Figma-blue?logo=figma&style=for-the-badge)](https://www.figma.com/design/ZnIRuExNOo1U4i8WBCBoSg/Case-Pr%C3%A1tico---Etapa-4?node-id=13-4&m=dev&t=d3y14wUUZmcp2u7c-1)
