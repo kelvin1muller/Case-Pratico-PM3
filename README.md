@@ -1,4 +1,4 @@
-# Case-Pratico-PM3
+# Case Prático Slack PM3
 
 ## 🧭 Visão Geral
 Esse case fictício é sugerido como desafio aos estudantes do curso de Product Management, não é algo obrigatório para conclusão do curso mas a entrega e aprovação do mesmo gera certificado de honra ao mérito. 
