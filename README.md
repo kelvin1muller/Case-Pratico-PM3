@@ -29,3 +29,4 @@ O desafio foi simular a priorização e organização da primeira sprint, consid
 ## ✍️ Desenvolvimento das Etapas
 
 ### 🔹 Etapa 1 – Validação e Modelo de Negócio
+[![Ver no Figma](https://img.shields.io/badge/Ver%20no-Figma-blue?logo=figma&style=for-the-badge)](https://www.figma.com/design/yDbp7E9XhdniRV5L1bnFws/Case-Pr%C3%A1tico---Etapa-1?node-id=0-1&m=dev&t=7PzH93CUQ2LtC5mi-1)
