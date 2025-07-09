@@ -17,7 +17,7 @@ Aqui o objetivo foi analisar o público de comunidades e gerar hipóteses de sol
    📄 [PDF completo](https://github.com/kelvin1muller/Case-Pratico-PM3/blob/main/pdfs/Case%20Slack_parte_2.pdf)
 
 3. **Etapa 3**  
-O foco desta etapa foi traduzir a estratégia em planejamento prático e visual, com foco em aquisição e ativação de novos públicos, especialmente em planos premium. O desafio consistiu em criar um roadmap claro e orientar o desenvolvimento da solução com foco em valor.
+O foco desta etapa foi traduzir a estratégia em planejamento prático e visual, priorizando aquisição e ativação de novos públicos, especialmente em planos premium. O desafio consistiu em criar um roadmap claro e orientar o desenvolvimento da solução focando no valor.
    📄 [PDF completo](https://github.com/kelvin1muller/Case-Pratico-PM3/blob/main/pdfs/Case%20Slack_parte_3.pdf)
  
 4. **Etapa 4**  
